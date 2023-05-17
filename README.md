@@ -18,3 +18,5 @@ Di Terminal / Command Prompt,
 
 ## Menjalankan Bot
 Cukup tulis `python main.py` di root directory ini.
+
+Note: commandnya baru ada d!ping doang kalo mau tambahin sendiri ya
