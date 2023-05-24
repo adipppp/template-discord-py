@@ -1,5 +1,5 @@
 # template-discord-py
-template bot discord dalam bahasa python untuk kamu yang lagi gabut
+The title speaks for itself
 
 ## Prerequisites
 Sebelum menjalankan bot untuk pertama kalinya, buka Terminal / Command Prompt dan ikuti langkah-langkah berikut:
