@@ -11,8 +11,10 @@ Di Terminal / Command Prompt,
 3. Jalankan `pip install -r requirements.txt`
 4. Buat file baru bernama `.env`, kemudian isi dengan format berikut:
 
-    > TOKEN=[token bot discord kamu]<br>
+    ```
+    TOKEN=[token bot discord kamu]
     CLIENT_NAME=[nama bot discord kamu]
+    ```
 
 5. Selesai
 
